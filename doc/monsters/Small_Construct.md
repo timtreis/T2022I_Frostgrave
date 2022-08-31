@@ -3,4 +3,4 @@ These are constructs that are smaller than most humans. They normally take the f
 
 | Move | Fight | Shoot | Armour | Will | Health | Notes |
 | ---- | ----- | ----- | ------ | ---- | ------ | ----- |
-| 6    | +1    | +0    | 11     | +0   | 10     | [[Construct]]      |
+| 6    | +1    | +0    | 11     | +0   | 10     | [Construct](../rules/Construct.md)      |

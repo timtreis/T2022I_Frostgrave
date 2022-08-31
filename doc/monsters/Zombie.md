@@ -3,4 +3,4 @@ Zombies probably outnumber all the other inhabitants of Frostgrave combined. Unl
 
 | Movement | Fight | Shoot | Armor | Will | Health | Notes  |
 | -------- | ----- | ----- | ----- | ---- | ------ | ------ |
-| 4        | +1    | +0    | 12    | +0   | 6      | [[Undead]] |
+| 4        | +1    | +0    | 12    | +0   | 6      | [Undead](../rules/Undead.md) |

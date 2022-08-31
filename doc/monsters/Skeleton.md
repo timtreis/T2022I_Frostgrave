@@ -3,4 +3,4 @@ Skeletons are the animated bones of some long-dead creature, held together and a
 
 | Move | Fight | Shoot | Armour | Will | Health | Notes      |
 | ---- | ----- | ----- | ------ | ---- | ------ | ---------- |
-| 6    | +1    | +0    | 10     | +0   | 1      | [[Undead]] |
+| 6    | +1    | +0    | 10     | +0   | 1      | [Undead](doc/rules/Undead.md) |

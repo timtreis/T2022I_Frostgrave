@@ -139,15 +139,15 @@
   },
   "active": "6f0afbe5d47228e5",
   "lastOpenFiles": [
-    "doc/spells/Animate_Construct.md",
-    "games/2022-08-31_Daniel_vs_Tim.md",
-    "doc/equipment/Explosive_Cocktail.md",
-    "doc/equipment/Philtre_of_Fury.md",
-    "doc/equipment/Potion_of_Iron_Mind.md",
-    "doc/equipment/Staff_of_Power.md",
-    "doc/spells/Write_Scroll.md",
-    "doc/rules/Strong.md",
     "doc/rules/Large.md",
-    "doc/rules/Construct.md"
+    "doc/monsters/Skeleton.md",
+    "doc/monsters/Medium_Construct.md",
+    "doc/monsters/Large_Construct.md",
+    "doc/rules/Strong.md",
+    "games/2022-08-31_Daniel_vs_Tim.md",
+    "doc/spells/Grenade.md",
+    "doc/spells/Animate_Construct.md",
+    "doc/equipment/Explosive_Cocktail.md",
+    "doc/equipment/Philtre_of_Fury.md"
   ]
 }
