@@ -4,7 +4,7 @@ Daniel vs Tim
 ---
 
 ## Outcome
-Massive dice luck for Tim when spamming [Grenade](doc/spells/Grenade.md), Daniel resigned in round 6 after 1 Grenade spell almost killed three people. 
+Massive dice luck for Tim when spamming [Grenade](../doc/spells/Grenade.md), Daniel resigned in round 6 after 1 Grenade spell almost killed three people. 
 
 ### Casulties
 - One of Tim's Infantrymen died permanently
