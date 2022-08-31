@@ -1,0 +1,2 @@
+# Philtre of Fury
+The figure gains +1 Fight and receives an additional +1 damage modifier on any successful hand-to-hand attack. However, the figure must, if possible, use all its actions every turn to move into combat with and fight the closest enemy figure (including uncontrolled creatures) in line of sight and not currently in combat.

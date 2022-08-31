@@ -1,0 +1,5 @@
+# Staff of Power
+Items of power provide a spellcaster with an additional pool from which they can draw to empower a spell or Will Roll in the same way as they can using their own Health. The number in brackets is the amount of power that can be drawn from an item before the pool runs dry. So, a staff of power (3) can be used to increase a single Casting Roll by +3, three Casting Rolls by +1 each, or one by +2 and one by +1. This power can be used in conjunction with the spellcaster’s
+Health to empower a spell. So, a wizard needing to increase a Casting Roll by 5 could use 3 from a staff of power and 2 from their own Health. Spellcasters using these items are still subject to the standard rules for and limitations on empowerment.
+
+Staffs, rings, and wands of power recharge between games, but orbs of power do not regenerate – once it has been tapped for 6 points of additional power it is empty and can’t even be sold.

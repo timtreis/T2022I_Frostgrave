@@ -1,0 +1,2 @@
+# Dagger
+This is a knife or other small weapon such as a light club. Daggers have a -1 damage modifier. The first dagger carried by a figure does not take up an item slot. So, a wizard can carry a dagger, plus up to five other items. 

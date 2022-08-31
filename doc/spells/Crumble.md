@@ -1,0 +1,4 @@
+# Crumble
+#Chronomancer / 10 / Line of Sight
+
+This spell can only target inanimate structures such as buildings and walls. The spellcaster rapidly speeds up the passing of time in a small area of the structure, causing it to collapse. This can create a doorway-sized hole through any wall, which should be indicated on the table somehow. The spell can also be used to collapse a section of floor beneath a figure standing on a level above the ground. In this case, the figure about to be affected must pass a Move Roll (TN22) or fall to the next level down and taking damage appropriately. If this spell is cast on a wall created by the [[Wall]] spell, the wall is completely destroyed. If it is cast on terrain holding a [[Wizard_Eye]], the Wizard Eye is cancelled.

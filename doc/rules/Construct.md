@@ -1,0 +1,2 @@
+# Construct
+This creature is immune to poison and never counts as wounded. Constructs can pick up and carry treasure tokens but have no item slots. Although constructs may never carry items, some items may be permanently grafted to them – if available, this option will be noted in the item’s description.

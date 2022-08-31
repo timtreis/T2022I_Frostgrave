@@ -1,0 +1,2 @@
+# Quiver
+Quivers are designed to carry arrows or crossbow bolts. A figure carrying a bow or crossbow must also carry a quiver, or some type of magic ammunition, in order to make shooting attacks. A figure with a quiver may carry one piece of magic ammunition, one magic arrow or crossbow bolt, without it taking up an item slot.

@@ -1,0 +1,2 @@
+# Shield
+This can be any type of shield from a small buckler to a large tower shield. A figure that is carrying a shield receives +1 Armour, but may not also carry a [[Two-Handed_Weapon]] or a [[Staff]]. Spellcasters may not carry shields.

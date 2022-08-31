@@ -1,0 +1,2 @@
+# Light Armour
+This represents any type of lighter armour that is mostly made from leather or other non-metal material. A figure wearing light armour receives +1 Armour. Spellcasters may not wear light armour.

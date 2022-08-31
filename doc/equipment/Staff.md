@@ -1,0 +1,2 @@
+# Staff
+The staff is better known for its defensive properties. Staffs do -1 damage. In hand-to-hand combat, however, it also gives the opponent a -1 damage modifier. The staff does not give this modifier to shooting attacks. This category also includes magic staffs.

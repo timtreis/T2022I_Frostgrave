@@ -1,0 +1,2 @@
+# Unarmed
+If a model ends up with no weapons, it can fight as normal but suffers -2 Fight and a -2 damage modifier. Creatures that have no weapons listed in their notes fight with natural weapons and are thus never counted as unarmed.

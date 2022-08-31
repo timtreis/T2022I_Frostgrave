@@ -1,0 +1,2 @@
+# Explosive Cocktail
+Throwing this cocktail follows all the rules of casting the Grenade spell, except that it can be used by a non-spellcaster, no Casting Roll is necessary, and the target point must be within 8”. Use of this potion cannot replace a move action.
