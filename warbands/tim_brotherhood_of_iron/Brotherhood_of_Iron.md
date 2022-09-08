@@ -1,5 +1,5 @@
 # Brotherhood of Iron
-Current gold: 230 GP
+Current gold: 260 GP
 
 ---
 
@@ -35,7 +35,7 @@ Current gold: 230 GP
 | [2022-08-31_Daniel_vs_Tim](games/2022-08-31_Daniel_vs_Tim.md) | [Light_Armour + 1](doc/equipment/Light_Armour.md)           | Ranger                                                                       |
 | [2022-08-31_Daniel_vs_Tim](games/2022-08-31_Daniel_vs_Tim.md) | [Staff_of_Power + 1](doc/equipment/Staff_of_Power.md)       | [Archpriest_Ezekiel](warbands/tim_brotherhood_of_iron/Archpriest_Ezekiel.md) |
 | [2022-08-31_Daniel_vs_Tim](games/2022-08-31_Daniel_vs_Tim.md) | Grimoire ([Strength](doc/spells/Strength.md))               | Sold for 200 GC since known                                                  |
-| [2022-08-31_Daniel_vs_Tim](games/2022-08-31_Daniel_vs_Tim.md) | Grimoire ([Write_Scroll](doc/spells/Write_Scroll.md))       |                                                                              |
+| [2022-08-31_Daniel_vs_Tim](games/2022-08-31_Daniel_vs_Tim.md) | Grimoire ([Write_Scroll](doc/spells/Write_Scroll.md))       |  Learned                                                                            |
 | [2022-08-31_Daniel_vs_Tim](games/2022-08-31_Daniel_vs_Tim.md) | [Potion_of_Iron_Mind](doc/equipment/Potion_of_Iron_Mind.md) | Sold for 30 GC                                                                             |
 | [2022-08-31_Daniel_vs_Tim](games/2022-08-31_Daniel_vs_Tim.md) | [Philtre_of_Fury](doc/equipment/Philtre_of_Fury.md)         |                                                                              |
 | [2022-08-31_Daniel_vs_Tim](games/2022-08-31_Daniel_vs_Tim.md) | [Explosive_Cocktail](doc/equipment/Explosive_Cocktail.md)   |                                                                              |
