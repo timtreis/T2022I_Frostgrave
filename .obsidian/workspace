@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "03bf3ce154fd7fd2",
+        "id": "be6d0a500683125d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "doc/monsters/Medium_Construct.md",
-            "mode": "source",
+            "file": "doc/rules/Enchanter.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Enchanter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "doc/monsters/Medium_Construct.md",
+                "file": "doc/rules/Enchanter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "doc/monsters/Medium_Construct.md",
+                "file": "doc/rules/Enchanter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "doc/monsters/Medium_Construct.md"
+                "file": "doc/rules/Enchanter.md"
               }
             }
           },
@@ -134,20 +134,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "03bf3ce154fd7fd2",
+  "active": "be6d0a500683125d",
   "lastOpenFiles": [
-    "doc/spells/Animate_Construct.md",
     "warbands/tim_brotherhood_of_iron/Archpriest_Ezekiel.md",
-    "games/2022-08-31_Daniel_vs_Tim.md",
+    "warbands/tim_brotherhood_of_iron/Brotherhood_of_Iron.md",
     "doc/spells/Write_Scroll.md",
-    "doc/rules/Large.md",
-    "doc/monsters/Skeleton.md",
-    "doc/monsters/Medium_Construct.md",
-    "doc/monsters/Large_Construct.md",
-    "doc/rules/Strong.md",
-    "doc/spells/Grenade.md"
+    "README.md",
+    "games/2022-08-31_Daniel_vs_Tim.md",
+    "img/medium_construct.png.png",
+    "doc/rules/Soldiers.md",
+    "doc/equipment/Hand_Weapon.md",
+    "doc/equipment/Light_Armour.md",
+    "doc/spells/Animate_Construct.md"
   ]
 }

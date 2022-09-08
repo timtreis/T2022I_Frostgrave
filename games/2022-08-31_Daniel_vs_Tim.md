@@ -25,7 +25,7 @@ Massive dice luck for Tim when spamming [Grenade](../doc/spells/Grenade.md), Dan
 | Tim 1 | 100 GP                                                                                                                                                                                                     | 100 GP |
 | Tim 2 | 60 GP, Grimoire -> [Write_Scroll](../doc/spells/Write_Scroll.md) (new)                                                                                                                                           | 160 GP |
 | Tim 3 | 40 GP, Magic Weapon/Armour -> Light Armour +1                                                                                                                                                              | 200 GP |
-| Tim 4 | 20 GP, [Staff_of_Power](../doc/equipment/Staff_of_Power.md)+1                                                                                                                                              | 220 GP |
+| Tim 4 | 20 GP, [Staff_of_Power + 1](../doc/equipment/Staff_of_Power.md)                                                                                                                                          | 220 GP |
 | Tim 5 | 20 GP, Potions (3) -> [Potion_of_Iron_Mind](../doc/equipment/Potion_of_Iron_Mind.md), [Philtre_of_Fury](../doc/equipment/Philtre_of_Fury.md), [Explosive_Cocktail](../doc/equipment/Explosive_Cocktail.md) | 240 GP |
 | Tim 6 | 40 GP, Grimoire -> [Strength](../doc/spells/Strength.md) (known -> Sell for 200 GP)                                                                                                                                                   | 480 GP |
 
