@@ -8,3 +8,4 @@ Alternatively, players may prefer to pre-generate encounters or create their own
 Although this rule is optional, it is highly recommended. Many players find random encounters to be one of their favourite aspects of the game. If you want to face even more of the denizens of the Frozen City, roll to generate an encounter at the end of every turn instead of (or as well as) when picking up treasure.
 
 ![](img/random_encounter_table.png.png)
+![](img/random_encounter_table_likelihoods.png.png)
